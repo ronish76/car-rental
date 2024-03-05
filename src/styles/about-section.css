@@ -1,0 +1,7 @@
+.about__section-item{
+    column-gap: 3rem;
+}
+
+.about__section-item p i{
+    padding: 0px;
+}
