@@ -4,6 +4,8 @@ import  Helmet from '../components/Helmet/Helmet';
 import { Container, Row, Col } from "reactstrap";
 import FindCarForm from '../components/UI/FindCarForm';
 import AboutSection from '../components/UI/AboutSection';
+import CarListing from './CarListing';
+import Blog from './Blog';
 const Home = () => {
   return (
     <Helmet title="Home">
